@@ -1,5 +1,5 @@
-import AppRoutes from "./presentation/routes";
-import Server from "./presentation/server";
+import AppRoutes from "./server/routes";
+import Server from "./server/server";
 import { PORT } from "./utils/env";
 
 (() => {
